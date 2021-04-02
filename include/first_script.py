@@ -4,3 +4,4 @@ def greet(who):
 if __name__ == '__main__':
     greet ('Bob')
     greet ('Ann')
+    greet ('Marly')
