@@ -1,5 +1,6 @@
 def greet(who):
     print('Hello, {}!'.format(who))
 
-greet ('Bob')
-greet ('Ann')
+if __name__ == '__main__':
+    greet ('Bob')
+    greet ('Ann')
